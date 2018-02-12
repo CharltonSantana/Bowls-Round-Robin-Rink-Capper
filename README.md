@@ -1,4 +1,4 @@
-# Bowls Round-Robin Leuge Generation - Rink Capper
+# Bowls Round-Robin League Generation - Rink Capper
 The problem with the standard round robin algorithm is you are limited to how many teams you have depending on how many rinks you have. 
 This code helps you cap the amount if rinks by extending how many matches are played.
 

@@ -1,6 +1,6 @@
 # Bowls Round-Robin League Generation - Rink Capper
 The problem with the standard round robin algorithm is you are limited to how many teams you have depending on how many rinks you have. 
-This code helps you cap the amount if rinks by extending how many matches are played.
+This code helps you cap the amount of rinks by extending how many matches are played.
 
 Standard Usage: 
 ```php
